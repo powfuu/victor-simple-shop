@@ -1,0 +1,77 @@
+[
+	{
+		"id": 1,
+		"nombreProducto": "Producto 1",
+		"precioProducto": 10.99
+	},
+	{
+		"id": 2,
+		"nombreProducto": "Producto 2",
+		"precioProducto": 20.99
+	},
+	{
+		"id": 3,
+		"nombreProducto": "Producto 3",
+		"precioProducto": 15.49
+	},
+	{
+		"id": 4,
+		"nombreProducto": "Producto 4",
+		"precioProducto": 8.99
+	},
+	{
+		"id": 5,
+		"nombreProducto": "Producto 5",
+		"precioProducto": 12.99
+	},
+	{
+		"id": 6,
+		"nombreProducto": "Producto 6",
+		"precioProducto": 18.99
+	},
+	{
+		"id": 7,
+		"nombreProducto": "Producto 7",
+		"precioProducto": 25.99
+	},
+	{
+		"id": 8,
+		"nombreProducto": "Producto 8",
+		"precioProducto": 14.99
+	},
+	{
+		"id": 9,
+		"nombreProducto": "Producto 9",
+		"precioProducto": 9.99
+	},
+	{
+		"id": 10,
+		"nombreProducto": "Producto 10",
+		"precioProducto": 16.99
+	},
+	{
+		"id": 11,
+		"nombreProducto": "Producto 11",
+		"precioProducto": 22.99
+	},
+	{
+		"id": 12,
+		"nombreProducto": "Producto 12",
+		"precioProducto": 11.99
+	},
+	{
+		"id": 13,
+		"nombreProducto": "Producto 13",
+		"precioProducto": 19.99
+	},
+	{
+		"id": 14,
+		"nombreProducto": "Producto 14",
+		"precioProducto": 13.99
+	},
+	{
+		"id": 15,
+		"nombreProducto": "Producto 15",
+		"precioProducto": 17.99
+	}
+]
